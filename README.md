@@ -1,11 +1,11 @@
-# Expense Tracker (MERN)
+# Budget Monitoring (MERN)
 
-> Full stack expense tracker
+> Full stack 
 
-## Usage
+## Steps to run the project
 
 ```
-change config.env file in config folder
+change the URL of config.env file in config folder
 ```
 
 ```
