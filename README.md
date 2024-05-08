@@ -1,8 +1,5 @@
-# Budget Monitoring (MERN)
 
-> Full stack 
-
-## Steps to run the project
+ ## Steps to run the project
 
 ```
 change the URL of config.env file in config folder
@@ -29,3 +26,6 @@ change the URL of config.env file in config folder
  # Prod
  npm start
 ```
+## Output 
+
+https://drive.google.com/file/d/1Hp-oXU5EnPWp_l3-usPcsend8eWpSKVv/view?usp=sharing
